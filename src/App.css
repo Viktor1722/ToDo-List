@@ -1,0 +1,33 @@
+body{
+  background-color: #F8F8FF;
+  overflow: hidden;
+}
+
+.list{
+  box-shadow: 0px 2px 6px rgb(136, 136, 136);
+  border-radius: 6px;
+  
+}
+
+.Title{
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #686484;
+  padding-top: 60px;
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.form button{
+  margin-left: 30px;
+  width: 100px;
+  background-color: #646ff0;
+}
+
+#listitem{
+  padding: 8px; 
+}
